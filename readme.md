@@ -1,0 +1,22 @@
+
+ERC-721 TOKEN NAME:
+Spaceballs
+_____
+
+
+
+ERC-721 TOKEN SYMBOL:
+SBs
+_____
+
+
+
+TRUFFLE VERSION:
+5.0.21
+_____
+
+
+
+OPENZEPPELIN VERSION:
+2.3.0
+_____
